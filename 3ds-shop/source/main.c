@@ -6,7 +6,7 @@
 #include <curl/curl.h>
 #include <jansson.h>
 
-#define SERVER_URL "http://192.168.0.219:5000"
+#define SERVER_URL "http://IPHERE:5000"
 #define MAX_ITEMS 64
 #define MAX_PATH_LEN 256
 #define JSON_BUF_SIZE (256 * 1024)
