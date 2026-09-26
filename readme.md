@@ -49,7 +49,7 @@ from flask import Flask, jsonify, request, send_file
 
 app = Flask(__name__)
 
-GAMES_DIR = "C:/Users/cole/Downloads/3ds-shop-server/games"
+GAMES_DIR = "C:/path/to/your/games"
 TID_CACHE = {}
 
 def extract_cia_title_id(filepath):
