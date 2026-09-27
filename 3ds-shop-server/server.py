@@ -15,7 +15,7 @@ except ImportError:
 app = Flask(__name__)
 
 # Target directory
-GAMES_DIR = "C:/Users/cole/Downloads/3ds-shop-server/games"
+GAMES_DIR = "C:/path/to/your/games"
 
 TID_CACHE = {}
 
