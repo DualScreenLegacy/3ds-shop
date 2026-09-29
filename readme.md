@@ -15,6 +15,15 @@ A lightweight local network content delivery and installation system for Nintend
 
 ---
 
+
+## Screenshots
+
+<img width="8640" height="4320" alt="_29 09 26_04 15 40 772" src="https://github.com/user-attachments/assets/b003949c-009b-4935-8413-00a0579c7251" />
+<img width="8640" height="4320" alt="_29 09 26_04 15 51 42" src="https://github.com/user-attachments/assets/135f372b-5f62-47bd-a007-9c92aa79737a" />
+
+---
+
+
 ## Prerequisites
 
 ### 1. Host Machine (Server)
